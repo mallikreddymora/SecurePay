@@ -1,2 +1,8 @@
-# SecurePay
-BDD 
+# SecurePay Contact us page Automation BDD: Selenium, java, Maven and Cucumber.
+
+Step1: Launch Eclipse or any IDE.
+Step2: Click on file > choose Import option from File menu > Select GIT>Projects from GIT from the import Wizard, Click Next.
+Step3: Click on Clone URL option> paste URL in the URI field > click next> selct Master > Selct Clone Submodules> click Next.
+Step4: Choose Import as General Project > click next > click Finish. 
+Step5: Add Cucumber extension and convert the project to Maven project.
+Step6: Run runner class from "src/test/java/runner/". 
