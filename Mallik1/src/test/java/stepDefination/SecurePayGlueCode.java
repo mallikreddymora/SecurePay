@@ -22,7 +22,7 @@ public WebDriver driver;
 	public void GoogleSearch() throws Exception
 	{
 	//Change the path of Chrome Driver before executing
-	System.setProperty("webdriver.chrome.driver", "C:/Users/Mallik/Downloads/Selenium/Workspace/SecurePay1/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 	driver= new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.get("https://www.google.com.au/");
